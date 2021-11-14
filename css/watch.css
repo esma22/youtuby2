@@ -52,3 +52,12 @@ time{
         font-size: 10px;
     }
 }
+@media (max-width:767px) {
+    .card .card-inner .card-body img{
+        width: 10%;
+    }
+    .card .card-inner .card-body p{
+        text-align: right !important;
+    }
+   
+}
